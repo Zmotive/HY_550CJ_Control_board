@@ -1321,7 +1321,7 @@
           (reference "J8_SW2") (unit 1)
         )
         (path "/42f06e5a-b6a6-4cd9-81d7-11930bbd2361/58572eb2-cd30-471b-bf20-2452a2fa768d"
-          (reference "12VOut") (unit 1)
+          (reference "12VOut1") (unit 1)
         )
       )
     )
@@ -1398,7 +1398,7 @@
           (reference "J8_SW2") (unit 1)
         )
         (path "/42f06e5a-b6a6-4cd9-81d7-11930bbd2361/58572eb2-cd30-471b-bf20-2452a2fa768d"
-          (reference "5VOut") (unit 1)
+          (reference "5VOut1") (unit 1)
         )
       )
     )
