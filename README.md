@@ -1,4 +1,7 @@
 # Overview #
+
+Please review the license for use. 
+
 This Project is still under development and not all features have been tested. As I work through the hardware I will continue to update. it is best to test this code will small actuators and another remote control unit prior to installing into an HY-550CJ. The HY-550CJ is a dangerous piece of equipment, any code that isn't tested should not be trusted as the machine is capable of serious injury to the user. In no way does the Authors or Contributors accept liability for damage to property or persons in use of this code or hardware. Care must be taken when using this repository. This same controller can be modified to fit other systems as it leverages the RC standard for control. It is best to test this on a safer piece of equipment (or remove the blades from the HY-550CJ prior to testing). 
 
 This code is unable to control the output of the motors when the "Auto" Switch is open (in the off state). The Teensy outputs the power on its auto pin that then runs to the physical switch. This ensures that the device cannot override an operator's manual control. Unfortunately this switch must be located on the machine. 
