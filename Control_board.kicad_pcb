@@ -8,7 +8,7 @@
   (title_block
     (title "AGV Control Board")
     (date "2024-06-30")
-    (rev "V1.0")
+    (rev "V1.3")
   )
 
   (layers
@@ -11612,7 +11612,7 @@
   (gr_text "FLT" (at 87 45 90) (layer "F.SilkS") (tstamp 27ba91a3-cc20-464b-bafd-8cacc68c8f08)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
-  (gr_text "V1.2" (at 24 76) (layer "F.SilkS") (tstamp 64546828-12ac-4efc-be47-9f02f7e34268)
+  (gr_text "${REVISION}" (at 24 76) (layer "F.SilkS") (tstamp 64546828-12ac-4efc-be47-9f02f7e34268)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
   (gr_text "5VCom Out" (at 155 72) (layer "F.SilkS") (tstamp 7168454e-7bc2-4415-b9e6-a3572083cd65)
