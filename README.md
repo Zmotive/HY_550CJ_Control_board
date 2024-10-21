@@ -43,3 +43,5 @@ Do a risk assesment according to ISO 12100 to understand the risks. The followin
  Headers and Sockets included for Teensy and GPS boards.
 
  [HY-550CJ](https://www.alibaba.com/product-detail/FREE-SHIPPING-CE-EPA-Remote-Control_1600909334029.html?spm=a2700.galleryofferlist.normal_offer.d_title.51b313a0xlqezM)
+
+ [Base Station Radio 100mW 915Mhz](https://holybro.com/products/sik-telemetry-radio-v3?variant=41562952302781)
