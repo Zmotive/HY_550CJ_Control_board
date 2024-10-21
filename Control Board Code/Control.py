@@ -1,3 +1,6 @@
+# Main Control code
+# TODO: make into seperate class imports for MicroPython
+
 import machine
 import time
 
