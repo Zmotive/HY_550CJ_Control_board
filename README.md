@@ -30,14 +30,14 @@ Do a risk assesment according to ISO 12100 to understand the risks. The followin
 * Maximum climb angle < 45 degrees in the forward direction.  
 
 # Setup #
-* The Teensy needs to be setup to disable being powered from the USB port to enable debugging under power.
+* The Teensy needs to be setup to disable being powered from the USB port to enable debugging under power. [Teensy Reference](https://www.pjrc.com/teensy/external_power.html)
 * J1 on the board links the Board 5Vdc to the Motor and Input 5Vdc to power the controller and smaller motors. it should not be used when in the HY-550CJ since power comes from the motor controllers.
 
 # Parts #
  
  [Mouser Project](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=017e74ae19)
 
- Teensy4.1 and GPS boards (2x) are seperate.
+ Teensy4.1 and GPS boards (2x for robot, 1x for base station) are seperate.
  [GPS Board](https://www.sparkfun.com/products/16481)
 
  Headers and Sockets included for Teensy and GPS boards.
